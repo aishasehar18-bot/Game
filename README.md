@@ -1,2 +1,2 @@
-# Game
-game description
+# Calculator
+calculator description
